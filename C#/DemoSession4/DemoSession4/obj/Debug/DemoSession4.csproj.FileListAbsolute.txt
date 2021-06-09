@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\bin\Debug\DemoSession4.exe.config
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\bin\Debug\DemoSession4.exe
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\bin\Debug\DemoSession4.pdb
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\obj\Debug\DemoSession4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\obj\Debug\DemoSession4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\obj\Debug\DemoSession4.exe
+C:\Users\DELL\source\repos\DemoSession4\DemoSession4\obj\Debug\DemoSession4.pdb
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\bin\Debug\DemoSession4.exe.config
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\bin\Debug\DemoSession4.exe
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\bin\Debug\DemoSession4.pdb
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\obj\Debug\DemoSession4.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\obj\Debug\DemoSession4.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\obj\Debug\DemoSession4.exe
+C:\Users\DELL\source\repos\C#\DemoSession4\DemoSession4\obj\Debug\DemoSession4.pdb

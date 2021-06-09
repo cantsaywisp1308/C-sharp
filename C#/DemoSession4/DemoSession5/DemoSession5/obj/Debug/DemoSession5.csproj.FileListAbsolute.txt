@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\bin\Debug\DemoSession5.exe.config
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\bin\Debug\DemoSession5.exe
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\bin\Debug\DemoSession5.pdb
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\obj\Debug\DemoSession5.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\obj\Debug\DemoSession5.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\obj\Debug\DemoSession5.exe
+C:\Users\DELL\source\repos\DemoSession5\DemoSession5\obj\Debug\DemoSession5.pdb

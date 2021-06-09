@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\bin\Debug\DemoSession11.exe.config
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\bin\Debug\DemoSession11.exe
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\bin\Debug\DemoSession11.pdb
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\obj\Debug\DemoSession11.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\obj\Debug\DemoSession11.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\obj\Debug\DemoSession11.exe
+C:\Users\DELL\source\repos\C#\DemoSession11\DemoSession11\obj\Debug\DemoSession11.pdb

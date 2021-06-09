@@ -1,0 +1,7 @@
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\bin\Debug\DemoSession3.exe.config
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\bin\Debug\DemoSession3.exe
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\bin\Debug\DemoSession3.pdb
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\obj\Debug\DemoSession3.csprojAssemblyReference.cache
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\obj\Debug\DemoSession3.csproj.CoreCompileInputs.cache
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\obj\Debug\DemoSession3.exe
+C:\Users\APTECH\source\repos\DemoSession3\DemoSession3\obj\Debug\DemoSession3.pdb

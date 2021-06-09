@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\bin\Debug\DemoSession9.exe.config
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\bin\Debug\DemoSession9.exe
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\bin\Debug\DemoSession9.pdb
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\obj\Debug\DemoSession9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\obj\Debug\DemoSession9.exe
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\obj\Debug\DemoSession9.pdb
+C:\Users\DELL\source\repos\DemoSession9\DemoSession9\obj\Debug\DemoSession9.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\bin\Debug\DemoSession9.exe.config
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\bin\Debug\DemoSession9.exe
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\bin\Debug\DemoSession9.pdb
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\obj\Debug\DemoSession9.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\obj\Debug\DemoSession9.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\obj\Debug\DemoSession9.exe
+C:\Users\DELL\source\repos\C#\DemoSession9\DemoSession9\obj\Debug\DemoSession9.pdb

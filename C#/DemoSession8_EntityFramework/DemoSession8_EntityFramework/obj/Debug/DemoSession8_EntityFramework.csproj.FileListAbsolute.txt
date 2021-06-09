@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\DemoSession8_EntityFramework.exe.config
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\DemoSession8_EntityFramework.exe
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\DemoSession8_EntityFramework.pdb
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\EntityFramework.dll
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\EntityFramework.xml
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\obj\Debug\DemoSession8_EntityFramework.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\obj\Debug\DemoSession8_EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\obj\Debug\DemoSession8_EntityFramework.csproj.CopyComplete
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\obj\Debug\DemoSession8_EntityFramework.exe
+C:\Users\DELL\source\repos\DemoSession8_EntityFramework\DemoSession8_EntityFramework\obj\Debug\DemoSession8_EntityFramework.pdb
